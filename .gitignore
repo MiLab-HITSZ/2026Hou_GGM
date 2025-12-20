@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs / outputs
+logs/
+outputs/
+wandb/
+
+# Large models / caches
+*.pt
+*.bin
+*.ckpt
+.cache/
+huggingface/
