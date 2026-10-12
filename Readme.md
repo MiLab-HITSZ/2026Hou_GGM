@@ -2,8 +2,7 @@
 
 ## 🔍 Project Overview
 
-This repository implements a complete pipeline for **LLM jailbreak optimization and safety evaluation**.
-
+This repository provides the official implementation of Gradient-Guided Mutation (GGM), a jailbreak attack method for large language models (LLMs). GGM leverages gradient-guided mutation to optimize adversarial prompts and evaluate their effectiveness against LLM safety mechanisms.
 ------
 
 ## 📁 Repository Structure
